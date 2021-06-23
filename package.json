@@ -1,0 +1,14 @@
+{
+  "name": "peopledatalabs",
+  "version": "0.1.0",
+  "description": "peopledatalabs API wrapper for nodejs",
+  "main": "lib/peopledatalabs.js",
+  "repository": "https://github.com/ghostdial/ghostdial",
+  "author": "Ghostdial LLC",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "nice-repl": "^0.1.2",
+    "request-debug": "^0.2.0"
+  }
+}
